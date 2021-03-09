@@ -1,28 +1,23 @@
-# Template2D-Unity202015f1
+# Conditions
 
 ### Project description: 
-Introduction/Project summary 
+ABCD Conditions will be filled out. Tasks will be assigned to you. If the task is correctly filled out, the condition will be set to true.
+(Typical Truthtable)
 
 ### Development platform: 
-(OS, Unity Version, Visual Studio Version, used SDKs)
+Unity
 
 ### Target platform: 
-WebGL, Mobile, VR Device incl. reference resolution 
+WebGL 
 
 ### Visuals: 
-Screenshots (concept and experience), Video
+Screenshots (concept and experience)
 
-### Necessary setup/execution steps: 
-Installation process, e.g. step by step instructions that I can run the project after cloning it
-
-### Third party material: 
-(if used Fonts, Sounds, Music, Graphics, Materials, Code etc.)
 
 ### Project state: 
-incl. progress in percent
+Finished (Testing and updates might still occur)
 
-### Limitations: 
 
-### Lessons Learned: 
+### Lessons Learned: How to handle certain if and for commands
 
-Copyright by you :)
+Dave
